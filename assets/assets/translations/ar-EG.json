@@ -149,6 +149,7 @@
   "channel-management": "إدارة القنوات",
   "channel-categories": "فئات القنوات",
   "channel-members": "أعضاء القناة",
+  "user-cannot-be-teamleader-and-admin": "لا يمكن للمستخدم أن يكون قائداً للفريق ومسؤولاً في نفس الوقت",
   "channels": "القنوات",
   "channel": "قناة",
   "channel-category": "فئة القناة",

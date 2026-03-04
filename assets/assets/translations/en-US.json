@@ -154,6 +154,7 @@
   "channel-management": "Channel Management",
   "channel-categories": "Channel Categories",
   "channel-members": "Channel Members",
+  "user-cannot-be-teamleader-and-admin": "User cannot be team leader and admin at the same time",
   "channel": "Channel",
   "channel-member": "Channel Member",
   "channel-category-id": "Channel Category ID",
